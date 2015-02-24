@@ -10,6 +10,8 @@ Il encapsule AbstractSudoGen et AbstractSudoSolve qui représente respectivement
 
 En héritant vos classes contenant vos algorithmes de génération/résolution à AbstractSudoGen/AbstractSudoSolve, vos classes seront compatibles avec la librairie.
 
+La documentation est disponible dans le répertoire "doc".
+
 ## Algorithmes déjà implémentés
 ### Génération
 Algorithme inspiré de http://www.mathspace.com/comap/Training_Materials/Team2975_ProblemB.pdf
